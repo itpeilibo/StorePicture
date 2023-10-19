@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="51px" viewBox="0 0 50 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 107备份</title>
+    <defs>
+        <filter x="-69.8%" y="-61.5%" width="239.7%" height="226.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.298828125   0 0 0 0 0.298828125   0 0 0 0 0.298828125  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="数据中心版-概览-管理员" transform="translate(-1332.000000, -858.000000)" stroke="#373B52" stroke-width="1.52195849">
+            <g id="编组-43备份" transform="translate(958.000000, 815.000000)">
+                <g id="编组-28" transform="translate(349.000000, 39.000000)">
+                    <g id="编组-107备份" filter="url(#filter-1)" transform="translate(38.000000, 16.000000)">
+                        <ellipse id="椭圆形备份-6" fill="#373B52" cx="12" cy="2.7396885" rx="1.96521147" ry="1.97870926"></ellipse>
+                        <ellipse id="椭圆形备份-9" fill="#373B52" cx="2.72619072" cy="20.3645495" rx="1.96521147" ry="1.97870926"></ellipse>
+                        <path d="M6.47668188,3.23172069 C2.62863624,5.24021576 0,9.28190563 0,13.9405862 C0,15.7523881 0.397581426,17.4708702 1.10985005,19.0127278 M5.7149513,24.2156218 C7.54284749,25.3472186 9.69556669,26 12,26 C15.4639519,26 18.5851034,24.5250299 20.7755015,22.1659538 M23.766662,16.3190278 C23.9197132,15.5500984 24,14.7547647 24,13.9405862 C24,7.9805306 19.6976548,3.03031685 14.0437868,2.05537708" id="形状" stroke-linecap="round"></path>
+                        <ellipse id="椭圆形备份-7" fill="#373B52" cx="21.2738093" cy="20.3645495" rx="1.96521147" ry="1.97870926"></ellipse>
+                        <g id="编组-106" transform="translate(4.142584, 9.985517)" stroke-linecap="round">
+                            <line x1="7.85741629" y1="0" x2="7.85741629" y2="8.6204756" id="路径-7"></line>
+                            <line x1="4.06972518" y1="1.40825978" x2="4.06972518" y2="6.97867385" id="路径-7备份-2"></line>
+                            <line x1="11.6451074" y1="1.40825978" x2="11.6451074" y2="6.97867385" id="路径-7备份-5"></line>
+                            <line x1="0.282034061" y1="2.69639494" x2="0.282034061" y2="5.72818104" id="路径-7备份-4"></line>
+                            <line x1="15.4327985" y1="2.69639494" x2="15.4327985" y2="5.72818104" id="路径-7备份-7"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
